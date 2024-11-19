@@ -1,0 +1,61 @@
+html{
+    
+        .ss{
+            padding-top: 12px;
+            
+        }
+        .ddd{
+            padding-top: 70px;
+            left: 0px;
+            right: 0px;
+        }
+        h1{
+           
+           padding-left: 100px;
+        
+            background-color: rgb(239, 222, 255);
+        }
+       
+        p{
+            padding-top: 50px;
+            padding-bottom: 50px;
+            padding-left: 100px;
+            padding-right: 100px;
+            
+        }
+        
+        .QUIZ{
+            list-style: none;
+            align-items: center;
+           padding-left: 640px;
+        }
+        .hh{
+            padding-left: 90px;
+        }
+    }
+    .divfoto{
+        width: 600px;
+        padding-left: 350px;
+    }
+    .divtexto{
+        width: 100%;
+        font-size: large;
+    }
+    header{
+        li{
+            padding: 20px;
+            padding-top: 10px;
+            padding-bottom: 0px;
+        }
+        display: flex;
+        list-style: none;
+        h3{
+            font-size: small;
+            color: white;
+        }
+        background-color: rgb(187, 73, 216);
+        position: fixed;
+       width: 100%;
+       top: 0px;
+       left: 0px;
+    }
